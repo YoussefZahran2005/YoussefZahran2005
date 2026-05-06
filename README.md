@@ -17,19 +17,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Computer Science & Artificial Intelligence** student at Helwan University, Cairo — currently focused on backend development with **Java and Spring Boot**.
 
-- 🎯 Currently mastering **Spring Boot** and REST API development
-- 🧠 Studying **Data Structures & Algorithms** in Java daily
-- 🔨 Building real projects to bridge the gap between theory and practice
-- 📍 Based in **Cairo, Egypt**
-- 📬 Reach me at: **yousufzahran.dev@gmail.com**
+-  Currently mastering **Spring Boot** and REST API development
+-  Studying **Data Structures & Algorithms** in Java daily
+-  Building real projects to bridge the gap between theory and practice
+-  Based in **Cairo, Egypt**
+-  Reach me at: **yousufzahran.dev@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -58,7 +58,7 @@ I'm a **Computer Science & Artificial Intelligence** student at Helwan Universit
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### 🎓 LMS Course Microservice
 > RESTful backend microservice built with **Spring Boot** for managing courses and lessons. Full CRUD, JPA persistence, Eureka service discovery, and input validation.
@@ -66,7 +66,7 @@ I'm a **Computer Science & Artificial Intelligence** student at Helwan Universit
 ---
 
 
-## 📈 Currently Working On
+## Currently Working On
 
 ```java
 public class Yousuf {
