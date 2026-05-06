@@ -69,10 +69,10 @@ I'm a **Computer Science & Artificial Intelligence** student at Helwan Universit
 ## Currently Working On
 
 ```java
-public class Yousuf {
+public class Zahran {
     String focus      = "Spring Boot & REST APIs";
     String learning   = "Data Structures & Algorithms";
-    String goal       = "Land first backend internship";
+    String goal       = "Land first backend Postion";
     String status     = "Building. Every. Day.";
 }
 ```
