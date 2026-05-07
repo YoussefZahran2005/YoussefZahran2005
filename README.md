@@ -54,8 +54,6 @@ I'm a **Computer Science & Artificial Intelligence** student at Capital Universi
 ---
 
 
----
-
 <div align="center">
 
 *"The best time to start was yesterday. The second best time is now."*
