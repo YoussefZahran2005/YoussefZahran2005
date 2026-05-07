@@ -19,7 +19,7 @@
 
 ##  About Me
 
-I'm a **Computer Science & Artificial Intelligence** student at Helwan University, Cairo — currently focused on backend development with **Java and Spring Boot**.
+I'm a **Computer Science & Artificial Intelligence** student at Capital University, Cairo — currently focused on backend development with **Java and Spring Boot**.
 
 -  Currently mastering **Spring Boot** and REST API development
 -  Studying **Data Structures & Algorithms** in Java daily
