@@ -22,7 +22,6 @@
 I'm a **Computer Science & Artificial Intelligence** student at Capital University, Cairo — currently focused on backend development with **Java and Spring Boot**.
 
 -  Currently mastering **Spring Boot** and REST API development
--  Studying **Data Structures & Algorithms** in Java daily
 -  Building real projects to bridge the gap between theory and practice
 -  Based in **Cairo, Egypt**
 -  Reach me at: **yousufzahran.dev@gmail.com**
